@@ -1,3 +1,6 @@
+```bash
+my discord: 0xequalshex
+```
 # Game Picker 🎮
 
 A simple Python desktop app built with Tkinter that randomly assigns a game to each person you enter.
